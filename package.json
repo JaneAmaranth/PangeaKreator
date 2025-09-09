@@ -1,12 +1,26 @@
 {
-  "name": "joann",
+  "name": "pangeakreator",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projekt PangeaKreator – kreator postaci/elementów",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "keywords": [
+    "pangea",
+    "creator",
+    "react"
+  ],
+  "author": "JaneAmaranth",
+  "license": "MIT"
 }
